@@ -100,7 +100,7 @@ nav{
     padding: 20px;
 }
 
-.card {
+.cardd {
     display: flex;
     flex-direction: column;
     gap: 10px;
